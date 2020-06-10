@@ -51,4 +51,4 @@ the application should open in your web browser
 - Upload to hosting provider
 
 ## Credits
-- [Udemy Course by Bluelime Learning Solutions](#https://www.udemy.com/course/become-a-mean-stack-developer-mongodb-expressangularnode/)
+- [Udemy Course by Bluelime Learning Solutions](https://www.udemy.com/course/become-a-mean-stack-developer-mongodb-expressangularnode/)
