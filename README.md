@@ -2,7 +2,7 @@
 An implementation of basic CRUD applications using MEAN stack.
 
 # Screenshot
-![Screenshot](https://github.com/park-jsdev/ShoppingListApp/blob/master/Capture.PNG$raw=true)
+![Screenshot](https://github.com/park-jsdev/ShoppingListApp/blob/master/Capture.PNG)
 
 # Description
 In this application:
