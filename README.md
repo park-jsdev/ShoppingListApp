@@ -1,10 +1,10 @@
-### ShoppingListApp
+# ShoppingListApp
 An implementation of basic CRUD applications using MEAN stack.
 
-# Screenshot
+## Screenshot
 ![Screenshot](https://github.com/park-jsdev/ShoppingListApp/blob/master/Capture.PNG)
 
-# Description
+## Description
 In this application:
 - I configured an Angular Component with a form to add new items and also to edit existing items
 - Created basic http methods
@@ -21,9 +21,9 @@ In this application:
 - Used Bootstrap for Frontend design
 
 
-## Getting Started
+# Getting Started
 
-# Prerequisites
+## Prerequisites
 
 *Developed on Windows 10*
 - Node.js v6 or newer
@@ -47,7 +47,7 @@ $ ng serve --open
 the application should open in your web browser
 ```
 
-# TODO
+## TODO
 - Upload to hosting provider
 
 ## Credits
